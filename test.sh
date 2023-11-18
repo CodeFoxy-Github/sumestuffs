@@ -1,1 +1,1 @@
-linux-distro login archlinux
+proot-distro login archlinux
